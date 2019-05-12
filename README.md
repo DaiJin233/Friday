@@ -34,8 +34,6 @@
 * [配置](#配置)
 * [技能插件](#插件)
 * [API接口](#api-接口)
-* [捐赠](#捐赠)
-* [贡献](#贡献)
 * [联系](#联系)
 * [感谢](#感谢)
 * [FAQ](#faq)
@@ -165,34 +163,6 @@ do_not_bother:
 ## API 接口 ##
 
 wukong-robot 的后台接口是开放 Web API 的，可以使用 Restful 方式调用，见 [后台API](https://www.hahack.com/wukong-contrib/#/api)。
-
-## 捐赠
-
-您的捐赠将鼓励我继续完善 wukong-robot。
-
-* 对于个人用户，可以使用支付宝或者微信进行捐赠，单笔超过 20 元的捐赠者，您的 ID 将可以出现在 wukong-robot 后台管理端的捐赠页面中。
-
-| 支付宝 | 微信支付 |
-| ------ | --------- |
-| <img src="http://hahack.com/images/misc/alipay.png" height="248px" width="164px" title="支付宝" style="display:inherit;"/> | <img src="http://hahack.com/images/misc/wechatpay.jpeg" height="248px" width="164px" title="微信支付" style="display:inherit;"/> |
-
-* 对于企业用户，建议[成为这个项目的 sponsor](https://opencollective.com/wukong-robot/contribute/tier/8131-sponsor)，您将可以把一个带链接的 logo 放在 wukong-robot 后台管理端的首页、捐赠页面以及 Github 项目首页中。
-
-<p align="center">
-  <a href="https://opencollective.com/wukong-robot/contribute/tier/8131-sponsor" target="_blank"><img src="https://opencollective.com/wukong-robot/sponsors.svg?width=890"></a>
-</p>
-
-## 贡献
-
-* 喜欢本项目请先打一颗星；
-* 提 bug 请到 [issue 页面](https://github.com/wzpan/wukong-robot/issues)；
-* 要贡献代码，欢迎 fork 之后再提 pull request；
-* 插件请提交到 [wukong-contrib](https://github.com/wzpan/wukong-contrib) ；
-
-## 联系
-
-* wukong-robot 的主要开发者是 [潘伟洲](http://hahack.com) 。
-* QQ 群：580447290（人数将满，为控制人数，需付费20元入群，群收入达到一万时将无偿捐赠给壹基金）
 
 ## 感谢
 
